@@ -6,7 +6,7 @@ This is application is used as a way for user to quickly make notes. User will b
 ## Credit
 - stackoverflow.com
 - w3school.com
-Kevin Tran 
+- Kevin Tran 
 
 ## Links
 - https://glacial-thicket-94833.herokuapp.com
