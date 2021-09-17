@@ -2,14 +2,5 @@
     {
         "title":"Test Title",
         "text":"Test text"
-    },
-    {   "title":"Another Test Title",
-        "text":"Second Test text"
-
-    },
-    {
-        "title":"Test title 3",
-        "text":"Just making sure"
     }
-
 ]
