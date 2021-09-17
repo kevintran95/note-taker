@@ -3,6 +3,7 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path')
 
+
 // Init express 
 const app = express();
 const PORT = process.env.PORT || 3001
@@ -73,6 +74,6 @@ app.get('*', (req, res) =>
 );
 
 // Listen PORT
-app.listen(PORt, () => 
+app.listen(PORT, () => 
     console.log(`listening at http://localhost:${PORT}`)
 );
